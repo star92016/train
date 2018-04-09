@@ -2,6 +2,12 @@
 ----
 ## 简介
 这是一个服务端和多个客户端的程序，多个客户端能够同步配合显示一个火车从左边的窗口跑到右边的窗口。最初的想法来自之前看过的一个视频，一个小人从一个电脑屏幕跑到另一个电脑屏幕。
+
++ 运行前
+![run-before](https://raw.githubusercontent.com/star92016/train/master/run-before.png)
++ 运行中
+![runing](https://raw.githubusercontent.com/star92016/train/master/runing.png)
+
 ## 编译
 进入工作目录执行make
 ## 运行服务端
